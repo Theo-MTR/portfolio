@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1jm3JUx6ksuleyk0efyldfZ1dAJ" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -16,6 +23,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -38,7 +46,7 @@
       <workItem from="1604939761965" duration="6000" />
       <workItem from="1605005899048" duration="9575000" />
       <workItem from="1605091278504" duration="28653000" />
-      <workItem from="1605253515239" duration="3110000" />
+      <workItem from="1605253515239" duration="3546000" />
     </task>
     <servers />
   </component>
