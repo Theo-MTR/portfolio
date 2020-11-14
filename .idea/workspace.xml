@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb9bbbd-8f58-4986-a938-21a7f0ba6768" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Diagrams" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +73,9 @@
       <workItem from="1605005899048" duration="9575000" />
       <workItem from="1605091278504" duration="28653000" />
       <workItem from="1605253515239" duration="4152000" />
-      <workItem from="1605340374598" duration="79000" />
+      <workItem from="1605340374598" duration="845000" />
+      <workItem from="1605347354074" duration="599000" />
+      <workItem from="1605392050101" duration="831000" />
     </task>
     <servers />
   </component>
@@ -92,12 +92,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="169" key="SettingsEditor" timestamp="1605190654167">
+    <state x="907" y="329" key="FileChooserDialogImpl" timestamp="1605392416608">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="460" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605190654167" />
+    <state x="907" y="329" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605392416608" />
+    <state x="643" y="277" width="1000" height="708" key="SettingsEditor" timestamp="1605392885932">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="643" y="277" width="1000" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605392885932" />
   </component>
   <component name="p4-ProjectCache">
     <option name="serverState">
