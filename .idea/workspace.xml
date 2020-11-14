@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb9bbbd-8f58-4986-a938-21a7f0ba6768" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9eb9bbbd-8f58-4986-a938-21a7f0ba6768" name="Default Changelist" comment="Test Webstorm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,8 +73,16 @@
       <workItem from="1605253515239" duration="4152000" />
       <workItem from="1605340374598" duration="845000" />
       <workItem from="1605347354074" duration="599000" />
-      <workItem from="1605392050101" duration="831000" />
+      <workItem from="1605392050101" duration="1201000" />
     </task>
+    <task id="LOCAL-00001" summary="Test Webstorm">
+      <created>1605392951467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605392951467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +100,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Webstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Webstorm" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="261" y="172" key="DiffContextDialog" timestamp="1605393028405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="261" y="172" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605393028405" />
     <state x="907" y="329" key="FileChooserDialogImpl" timestamp="1605392416608">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -103,6 +117,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="643" y="277" width="1000" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605392885932" />
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2" timestamp="1605393036471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605393036471" />
+    <state x="741" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605392905730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605392905730" />
   </component>
   <component name="p4-ProjectCache">
     <option name="serverState">
