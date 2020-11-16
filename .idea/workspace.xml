@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb9bbbd-8f58-4986-a938-21a7f0ba6768" name="Default Changelist" comment="Correction">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9eb9bbbd-8f58-4986-a938-21a7f0ba6768" name="Default Changelist" comment="Correction de bugs d'affichage">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/fr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <workItem from="1605340374598" duration="845000" />
       <workItem from="1605347354074" duration="599000" />
       <workItem from="1605392050101" duration="1394000" />
-      <workItem from="1605528537269" duration="1889000" />
+      <workItem from="1605528537269" duration="2272000" />
     </task>
     <task id="LOCAL-00001" summary="Test Webstorm">
       <created>1605392951467</created>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605393384562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Correction de bugs d'affichage">
+      <created>1605530602460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605530602460</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Webstorm" />
     <MESSAGE value="Correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction" />
+    <MESSAGE value="Correction de bugs d'affichage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction de bugs d'affichage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="172" key="DiffContextDialog" timestamp="1605393028405">
@@ -137,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="643" y="277" width="1000" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605392885932" />
-    <state x="451" y="192" key="Vcs.Push.Dialog.v2" timestamp="1605393389812">
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2" timestamp="1605530607455">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="451" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605393389812" />
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605530607455" />
     <state x="741" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605392905730">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
