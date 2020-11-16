@@ -80,6 +80,13 @@ body {
     animation: bubble-anim2 4s ease-out infinite;
     object-fit: cover
 }
+
+.first {
+    border-radius: 20px 20px 0 0;
+}
+.intro {
+    margin-top: 3%;
+}
 /*Fin general*/
 
 @media (max-width:992px) {
