@@ -76,7 +76,6 @@ body {
 
 .loisirs {
     margin-top: 3%;
-    max-height: 10%;
     border-radius: 50px;
     animation: bubble-anim2 4s ease-out infinite;
     object-fit: cover
