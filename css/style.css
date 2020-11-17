@@ -46,8 +46,10 @@ body {
 
 .loisirs {
     margin-top: 3%;
+    height: 20em;
     border-radius: 50px;
     animation: bubble-anim2 4s ease-out infinite;
+    object-fit: cover
 }
 
 .first {
