@@ -19,7 +19,11 @@ p {
 .ldin {
     width: 5em;
     height: 5em;
-    margin-top: 10%;
+    border-radius: 50px;
+}
+
+.infor img {
+
 }
 
 .center {
