@@ -3,28 +3,9 @@
     padding: 3%;
 }
 
-.col-lg-12,
-.col-md-6 {
-    margin: 0 auto
-}
-
 html, body {
     height: 100%;
     width: 100%;
-}
-
-.hspec{
-    color: lightgrey;
-    font-family: Corbel, sans-serif;
-    left: 50%;
-}
-
-.hp {
-    min-height: 1080px;
-}
-
-.bg-trans {
-    background-color: rgba(0,0,0,0.8);
 }
 
 .police {
@@ -35,7 +16,9 @@ p {
     font-size: 22px;
 }
 
-.verti {
+.ldin {
+    width: 5em;
+    height: 5em;
     margin-top: 10%;
 }
 
@@ -44,21 +27,9 @@ p {
     margin: 0 auto;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-    font-family: "PoliceIUT";
-}
-
 body {
     background-color: #343a40;
     font-family: sans-serif;
-}
-
-.bt {
-    border-bottom: 0.5px rgba(255, 255, 255, 0.3) solid;
 }
 
 .imgtl {
@@ -67,11 +38,6 @@ body {
     object-fit: cover;
     border-radius: 10px 10px 0 0;
     filter: brightness(70%);
-}
-
-.imgtl2 {
-    width: 38px;
-    height: 38px;
 }
 
 .loisirs {
@@ -87,92 +53,41 @@ body {
 .intro {
     margin-top: 3%;
 }
-/*Fin general*/
-
-@media (max-width:992px) {
-    .reseau a {
-        display: block
-    }
-
-    .reseau img {
-        max-width: 30%;
-        max-height: 30%;
-        margin: 10%
-    }
-
-    .lien a {
-        display: block;
-        margin: 5%
-    }
-    .dropdown-toggle:focus {
-        outline: none;
-    }
-    .ua img {
-        width: 20%;
-        height: auto;
-    }
-    .mbt {
-        margin-bottom: 5%;
-    }
-}
-
-@media (min-width:992px) {
-    .reseau img {
-        max-width: 20%;
-        max-height: 20%
-    }
-
-    .lien a {
-        margin: 20px
-    }
-
-    .lien {
-        padding: 2%
-    }
-    .ua img {
-        width: 10%;
-        height: auto;
-    }
-}
 
 .progress {
     height: 3em;
     margin: 10%;
 }
 
-.container-fluid {
-    /*background-color: lightgray;*/
-}
-header {
-    min-height: 100%;
-    height: 100%;
-}
-.taille {
-    height: 50em;
-}
-
 .index {
-    z-index: -2;
-}
-.indexm {
     z-index: -1;
 }
 .index1 {
     z-index: 1;
 }
 
+/*Fin general*/
+
+/*
+@media (min-width:992px) {
+
+}
+*/
+
+
 /*
 .bg-vache {
     background-image: url("../img/vache.jpg");
 }
 */
+
+
 /* Navbar*/
 
 .nav-link {
     font-size: 20px;
     color: white;
 }
-
 
 
 .img-responsive {
@@ -197,114 +112,17 @@ header {
     object-fit: cover
 }
 
-.card-footer a:hover {
-    text-decoration: none;
-    color: white;
-}
-
-/* footer */
-
-footer {
-    margin-bottom: 0;
-    padding: 5%;
-    width: auto
-}
-
-footer a {
-    color: #fff
-}
-
-
-iframe /*map google*/ {
-    width: 100%;
-    height: 100%
-}
-
-.lien a /*Annuaire...*/{
-    color: #fff
-}
-
-.lien /*Annuaire...*/{
-    text-align: center;
-    width: 100%
-}
-
-.reseau {
-    list-style-type: none;
-    margin: auto 0;
-    padding: 0;
-    width: auto;
-    height: auto;
-    text-align: center
-}
-
-.end {
-    color: #fff;
-    text-align: center;
-    padding: 2%
-}
-
-
-/* Fin footer */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Couleur*/
 
 .flou {
     filter: blur(8px);
 }
 
-.opac {
-    filter: opacity(30%);
-}
-
-
 .bg-grey {
     background-color: lightgrey;
 }
-
 .bg-gray {
     background-color: darkgray;
-}
-
-.dt-violet::after,
-.violet {
-    color: #9129ff
-}
-
-.dt-vert::after,
-.vert {
-    color: #c4ff1c
-}
-
-.dt-orange::after,
-.orange {
-    color: #f58f0a
-}
-
-.dt-rose::after,
-.rose {
-    color: #ff0dcc
-}
-
-.dt-turquoise::after,
-.turquoise {
-    color: #17a2b8
 }
 
 .blanc {
@@ -318,65 +136,16 @@ iframe /*map google*/ {
 .dark {
     color: #343a40;
 }
-.darkgray {
-    color: darkgray;
-}
 
 .brd-transp {
     border: solid transparent 0;
 }
 
-.brd-grey {
-    border: solid lightgrey 3px
-}
-
-.brd-turquoise {
-    border: solid #17a2b8 3px
-}
-
-.brd-vert {
-    border: solid #c4ff1c 3px
-}
-
-.brd-orange {
-    border: solid #f58f0a 3px
-}
-
-.brd-rose {
-    border: solid #ff0dcc 3px
-}
-
-.brd-violet {
-    border: solid #9129ff 3px
-}
-
-.hpurp .dropdown-item:hover {
-    background-color: #9129ff
-}
-
-.hgreen .dropdown-item:hover {
-    background-color: #c4ff1c;
-    color: #343a40;
-}
-
-.horange .dropdown-item:hover {
-    background-color: #f58f0a
-}
-
-.hpink .dropdown-item:hover {
-    background-color: #ff0dcc
-}
-
-.hturq .dropdown-item:hover, .boutturq {
-    background-color: rgb(000, 172, 154)
-}
-
+/* FIN COULEURS*/
 
 .timeline-badge {
     animation: bubble-anim 2s ease-out infinite;
 }
-
-
 
 @keyframes bubble-anim {
     0% {
