@@ -8,6 +8,7 @@ html, body {
     width: 100%;
 }
 
+
 .police {
     font-family: Corbel, sans-serif;
 }
@@ -69,6 +70,15 @@ body {
 }
 .index1 {
     z-index: 1;
+}
+
+form .btn:hover {
+    background-color: lightgrey;
+}
+
+form {
+    padding: 3%;
+    border-radius: 10px;
 }
 
 /*Fin general*/
