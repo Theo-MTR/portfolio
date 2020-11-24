@@ -9,7 +9,7 @@ function add(idiv, imgID, imgsrc, idpara, titre) {
     let iddiv = document.getElementById(idiv);
     let img = document.getElementById(imgID);
     img.setAttribute("src", imgsrc);
-    img.setAttribute("class", "w-100 h-100 br50 flou2");
+    img.setAttribute("class", "w-100 h-100 br50 lum");
     let para = document.createElement('p');
     para.setAttribute("class", "fixed-top grey center p-3");
     para.setAttribute("id", idpara);

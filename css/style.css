@@ -153,8 +153,8 @@ form {
     filter: blur(8px);
 }
 
-.flou2 {
-    filter: blur(3px);
+.lum {
+    filter: brightness(70%);
 }
 
 .bg-grey {
