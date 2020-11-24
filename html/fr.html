@@ -4,6 +4,8 @@
 <head>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
+    <script src='../js/monjs.js' async></script>
+    <link rel="icon" type="img/png" href="../img/logo.png">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/style.css" rel="stylesheet">
     <link href="../css/timeline.css" rel="stylesheet">
@@ -68,7 +70,7 @@
 <!--Contenu-->
 <div class="container-fluid h-100 p-0">
     <img alt="fond" class="flou fixed-top index" src="../img/font1.jpg"/>
-    <div class="row blanc m-0 mt-5">
+    <div class="row blanc m-0 mt-5" id="entete">
         <div class="row col-12 text-center m-0">
             <h1 class="grey police col-12 p-5">Théo Monteiro</h1>
             <h2 class="grey police col-12">Développeur informatique</h2>
@@ -198,7 +200,7 @@
         </div>
     </div>
     <!-- TIMELINE -->
-    <div class="row w-100  bg-gray m-0">
+    <div class="row w-100  bg-gray m-0" id="parc">
         <h2 class="police dark center">Parcours</h2>
         <ul class="timeline police">
             <li>
@@ -331,16 +333,27 @@
     </div>
     <div class="row w-100 bg-gray m-0">
         <h2 class="police dark center col-12">Loisirs</h2>
-        <img alt="pêche" class="col-lg-3 loisirs" src="../img/peche.jpg">
-        <img alt="science-fiction" class="col-lg-3 loisirs" src="../img/sf.jpg">
-        <img alt="nouvelles technologies" class="col-lg-3 loisirs" src="../img/nt.jpg">
-        <img alt="moto" class="col-lg-3 loisirs" src="../img/moto.jpg">
+
+        <div class="col-lg-3 loisirs" id="peche">
+            <img alt="pêche" class="w-100 h-100 br50 " src="../img/interro.png" id="imgP">
+        </div>
+        <div class="col-lg-3 loisirs" id="sf">
+            <img alt="pêche" class="w-100 h-100 br50 " src="../img/interro.png" id="imgSF">
+        </div>
+        <div class="col-lg-3 loisirs" id="nt">
+            <img alt="pêche" class="w-100 h-100 br50 " src="../img/interro.png" id="imgNT">
+        </div>
+        <div class="col-lg-3 loisirs" id="moto">
+            <img alt="pêche" class="w-100 h-100 br50 " src="../img/interro.png" id="imgM">
+        </div>
+
     </div>
+    <!--
     <div class="row w-100 bg-grey m-0">
         <h2 class="police dark center col-12 mb-3">Contact</h2>
         <span class="center"><a href="mailto:theomonteiro62@gmail.com"><button class="btn btn-block bg-gray"
                                                                                type="submit"> Contacter</button></a></span>
-        <!--
+
         <form action="../php/mail.php" class="center bg-gray" method="post">
             <div class="form-group input-group">
                 <input class="form-control text-center" name="nom" placeholder="Nom" type="text">
@@ -356,8 +369,13 @@
                 <button class="btn btn-block bg-grey" type="submit"> Contacter</button>
             </div>
         </form>
-        -->
+
     </div>
+-->
+    <footer class="row w-100 m-0 bg-dark">
+        <span class="center"><a href="mailto:theomonteiro62@gmail.com"><button class="btn btn-block bg-gray"
+                                                                               type="submit"> Contacter</button></a></span>
+    </footer>
 
 </div>
 </body>

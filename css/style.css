@@ -3,6 +3,11 @@
     padding: 3%;
 }
 
+.comp {
+    background-image: url('../img/vache.jpg');
+    background-attachment: fixed;
+}
+
 html, body {
     height: 100%;
     width: 100%;
@@ -27,6 +32,10 @@ p {
 
 }
 
+.lacc {
+    margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
+}
+
 .center {
     text-align: center;
     margin: 0 auto;
@@ -47,6 +56,17 @@ body {
 
 .loisirs {
     margin-top: 3%;
+    height: 20em;
+    border-radius: 50px;
+    animation: bubble-anim2 4s ease-out infinite;
+    object-fit: cover
+}
+
+.br50 {
+    border-radius: 50px;
+}
+
+.dlois {
     height: 20em;
     border-radius: 50px;
     animation: bubble-anim2 4s ease-out infinite;
@@ -131,6 +151,10 @@ form {
 
 .flou {
     filter: blur(8px);
+}
+
+.flou2 {
+    filter: blur(3px);
 }
 
 .bg-grey {
